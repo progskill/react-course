@@ -3,12 +3,12 @@ import { Todo } from "../entities/Todo";
 const todos = [
   {
     id: 1,
-    title: "Learn HTML",
+    title: "HTML For Beginners",
     completed: false,
   },
   {
     id: 2,
-    title: "Learn CSS",
+    title: "Introduction To CSS",
     completed: false,
   },
   {
@@ -18,12 +18,12 @@ const todos = [
   },
   {
     id: 4,
-    title: "Learn React",
+    title: "React Basics course",
     completed: false,
   },
   {
     id: 5,
-    title: "Learn Next.js",
+    title: "Next.js For Dummies",
     completed: false,
   },
 ];
